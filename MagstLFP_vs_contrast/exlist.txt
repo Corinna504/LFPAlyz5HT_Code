@@ -1,0 +1,11 @@
+Z:\data\kaki\0341\ka_0341_c1_sortLH_11.03.grating.CO.mat
+Z:\data\kaki\0342\ka_0342_c1_sortLH_11.26.grating.CO.mat
+Z:\data\kaki\0344\ka_0344_c1_sortLH_12.46.grating.CO.mat
+Z:\data\kaki\0346\ka_0346_c1_sortLH_13.33.grating.CO.mat
+Z:\data\kaki\0350\ka_0350_c1_sortLH_all.grating.CO.mat
+Z:\data\mango\0538\ma_0538_c1_sortLH_all.grating.CO.mat
+Z:\data\kaki\0348\ka_0348_c1_sortLH_15.39.grating.CO.mat
+Z:\data\kaki\0349\ka_0349_c1_sortLH_15.45.grating.CO.mat
+Z:\data\kaki\0350\ka_0350_c1_sortLH_all.grating.CO.mat
+Z:\data\kaki\0351\ka_0351_c1_sortKK_all.grating.CO.mat
+Z:\data\kaki\0352\ka_0352_c1_sortKK_all.grating.CO.mat
